@@ -1,0 +1,2 @@
+# SciptTeste
+ Primeiro repositório versionado
